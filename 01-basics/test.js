@@ -7,3 +7,6 @@ console.log("hello i am arpita");
 4. in today era use esb version of javascript ,as it is latest one.
 *esb- echma script b(vanilla javascript)
 */
+
+const num = [1,2,3,4];
+console.log(num);
